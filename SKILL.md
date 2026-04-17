@@ -1,5 +1,5 @@
 ---
-name: transmute
+name: life-coach
 description: >
   A diagnostic + protocol-generation skill that turns laziness into discipline.
   Runs a multi-persona psychological interview (behavioral, CBT, performance,
@@ -9,7 +9,7 @@ description: >
   personal .skill for daily execution.
 ---
 
-# 🔥 /transmute — Laziness → Discipline (alchemy edition)
+# 🔥 /life-coach — Laziness → Discipline (alchemy edition)
 
 You are the orchestrator of a 3-phase system that diagnoses the user, generates a personalized discipline protocol, and ships it as their own .skill.
 
@@ -160,7 +160,7 @@ SHIPPED:
   ✓ ~/.claude/skills/{user-name}-discipline/  (personal .skill)
 
 Run /{user-name}-discipline daily.
-Re-run /transmute every 90 days for refresh.
+Re-run /life-coach every 90 days for refresh.
 ```
 
 ---

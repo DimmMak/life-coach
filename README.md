@@ -1,4 +1,4 @@
-# 🔥🃏 transmute
+# 🔥🃏 life-coach
 
 > **Turn laziness into discipline. Alchemy edition.**
 >
@@ -8,7 +8,7 @@
 YOU                       4 PSYCHOLOGIST AGENTS         OUTPUT
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 Conversation             ┌─────────────────────────┐
-with /transmute  ──────→ │  Behavioral Psych       │ ──→ profile.md
+with /life-coach  ──────→ │  Behavioral Psych       │ ──→ profile.md
                          │  CBT Therapist          │ ──→ protocol.md
                          │  Performance Coach      │ ──→ personal .skill
                          │  Neuroscientist         │     (your daily driver)
@@ -76,17 +76,17 @@ You invoke it daily:
 
 ```bash
 # Drop into your skills directory
-git clone https://github.com/DimmMak/transmute.git
-cd .. && zip -r ~/.claude/skills/transmute.skill transmute/
+git clone https://github.com/DimmMak/life-coach.git
+cd .. && zip -r ~/.claude/skills/life-coach.skill transmute/
 
 # Or copy SKILL.md if you prefer manual setup
-mkdir -p ~/.claude/skills/transmute
-cp SKILL.md agents/ frameworks/ schemas/ ~/.claude/skills/transmute/
+mkdir -p ~/.claude/skills/life-coach
+cp SKILL.md agents/ frameworks/ schemas/ ~/.claude/skills/life-coach/
 ```
 
 Then in any Claude Code session:
 ```
-/transmute
+/life-coach
 ```
 
 ---
