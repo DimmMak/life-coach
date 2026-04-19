@@ -1,5 +1,6 @@
 ---
 name: life-coach
+domain: general
 description: >
   A diagnostic + protocol-generation skill that turns laziness into discipline.
   Runs a multi-persona psychological interview (behavioral, CBT, performance,
