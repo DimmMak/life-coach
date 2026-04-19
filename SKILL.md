@@ -8,6 +8,18 @@ description: >
   daily/weekly discipline protocol grounded in evidence-based habit research
   (Fogg, Clear, Newport, Lembke, Huberman). Saves the protocol as the user's
   personal .skill for daily execution.
+  NOT for: investment/trading coaching (use sensei under .home).
+  NOT for: skill-building methodology (use skill-builder).
+  NOT for: daily task tracking (use project-manager or .chief).
+capabilities:
+  reads:
+    - "user interview input"
+  writes:
+    - "~/.claude/skills/life-coach-protocol/ (the generated skill)"
+  calls: []
+  cannot:
+    - "modify other skills"
+    - "generate protocols that contradict evidence base"
 ---
 
 # 🔥 /life-coach — Laziness → Discipline (alchemy edition)
