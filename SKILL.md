@@ -20,6 +20,12 @@ capabilities:
   cannot:
     - "modify other skills"
     - "generate protocols that contradict evidence base"
+unix_contract:
+  data_format: "markdown"
+  schema_version: "0.1.0"
+  stdin_support: false
+  stdout_format: "markdown"
+  composable_with: []
 ---
 
 # 🔥 /life-coach — Laziness → Discipline (alchemy edition)
