@@ -1,5 +1,6 @@
 ---
 name: life-coach
+version: 0.2.0
 domain: general
 description: >
   A diagnostic + protocol-generation skill that turns laziness into discipline.
