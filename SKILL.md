@@ -10,7 +10,7 @@ description: >
   (Fogg, Clear, Newport, Lembke, Huberman). Saves the protocol as the user's
   personal .skill for daily execution.
   NOT for: investment/trading coaching (use sensei under .home).
-  NOT for: skill-building methodology (use skill-builder).
+  NOT for: skill-building methodology (use snes-builder).
   NOT for: daily task tracking (use project-manager or .chief).
 capabilities:
   reads:
